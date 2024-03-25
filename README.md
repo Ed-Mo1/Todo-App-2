@@ -1,7 +1,7 @@
 # Project Description: Todo App
 
-You need to clone it and run the following commands:
-npm run server
+You need to clone it and run the following commands:<br/>
+npm run server<br/>
 npm run dev
 
 This project is a Todo App built using the following technologies:
