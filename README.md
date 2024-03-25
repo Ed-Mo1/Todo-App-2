@@ -1,5 +1,9 @@
 # Project Description: Todo App
 
+You need to clone it and run the following commands:
+npm run server
+npm run dev
+
 This project is a Todo App built using the following technologies:
 
 - React: A popular JavaScript library for building user interfaces.
